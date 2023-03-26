@@ -1,24 +1,24 @@
 余り物の激安PCのメモリを増設して開発機として使用している。詳細は以下の通り。
 
 ## よくある使い方
-- VSCodeを起動（ローカル or GitHub Dev.）
-- ChromeでAmazon Music再生
-- Netflixなど動画再生
+- `VSCode`を起動（ローカル or GitHub Dev.）
+- `Chrome`でAmazon Music再生
+- `Netflix`など動画再生
 
 ## 快適か
 低スペックにも関わらず、普通に使う分には重い・遅いと感じることはないため快適。
 
 ## さすがに重い処理
-- Unityでビルド
-- BlenderでCPU負荷の高いレンダリング
+- `Unity`でビルド
+- `Blender`でCPU負荷の高いレンダリング
 など
 
 ---
 
 ## 1. PC Spec.
-- OS: Chrome OS Flex Ver. 111.0.5563.71 (Official Build) (64-bit) 
-- PC: DELL Inspiron 15 3581(¥40.000)
-    - CPU: Core i3 7th Gen@2.3GHz, 4 threads
+- OS: Chrome OS Flex Ver. `111.0.5563.71 (Official Build) (64-bit) `
+- PC: DELL Inspiron 15 3581(¥40,000)
+    - CPU: `Core i3 7th Gen@2.3GHz, 4 threads`
     - メモリ：16GB(増設)
     - HDD: 1TB
 - 連携デバイス
@@ -40,19 +40,19 @@ Linux使用時・バッテリー接続時のパフォーマンスは以下の通
     - Available: 12.52GB(of 15.3GB)
 
 ## 2. アプリケーション
-- Chrome(OS標準)
+- `Chrome`(OS標準)
 - 日本語対応
-    - Fcitx
+    - `Fcitx`
 - 開発
     - GUI
-        - Unity
-        - Blender
-        - KeePassX
-        - VSCode(Local/Web)
+        - `Unity`
+        - `Blender`
+        - `KeePassX`
+        - `VSCode`(Local/Web)
     - CUI
-        - fish
-        - gh
-        - Htop
+        - `fish`
+        - `gh`
+        - `Htop`
 ## 3. ブラウザ完結
 - 3-1. GitHub
     - GitHub Dev
@@ -75,15 +75,15 @@ Linux使用時・バッテリー接続時のパフォーマンスは以下の通
                 - WikiLens
                 - TODO Highlight
 - 3-2. Subscription Services
-    - Netflix
-    - dアニメ
-    - Prime Video
-    - Kindle
-    - Amazon Music Unlimited
+    - `Netflix`
+    - `dアニメ`
+    - `Amazon Prime Video`
+    - `Amazon Kindle`
+    - `Amazon Music Unlimited`
         - Music
         - Podcast
-    - Audible
+    - `Audible`
 - 3-3. Social
-    - Twitter
-    - Instagram
-    - Youtube
+    - `Twitter`
+    - `Instagram`
+    - `Youtube`
